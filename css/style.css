@@ -1,0 +1,97 @@
+body, html {
+    height: 100%;
+  }
+  
+.parallax_Manhattan{
+  background-image: url("../images/Manhattan.jpeg");
+  
+  height: 50%;
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax_NewYork{
+  background-image: url("../images/NewYork.jpeg");
+    
+  height: 65%;
+    
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_StatueOfLiberty{
+  background-image: url("../images/StatueOfLiberty.jpeg");
+    
+  height: 40%;
+    
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_Brooklyn{
+
+  background-image: url("../images/Brooklyn.jpeg");
+    
+  height: 75%;
+    
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_Bridge{
+
+  background-image: url("../images/Bridge.jpeg");
+    
+  height: 60%;
+    
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_Night{
+
+  background-image: url("../images/Night.jpeg");
+    
+  height: 70%;
+    
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.popisek{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding: 2em;
+  background-color: rgba(125, 125, 125, 0.5);
+}
+
+.popisek h1{
+  font-size: 75px;
+  margin: 0.1em;
+}
+
+.popisek h2{
+  font-size: 60px;
+  margin: 0.1em;
+}
+
+.popisek h3{
+  font-size: 50px;
+  margin: 0.1em;
+}
+
+.popisek p{
+  font-size: 25px;
+}
